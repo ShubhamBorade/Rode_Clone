@@ -1,6 +1,6 @@
 # Rode Clone
 
-> i have learnt basics of HTML and CSS in this project.
+> I have learnt about Tailwind in this project.
 
 > it took me around 7 and half hours to complete this project.
 
